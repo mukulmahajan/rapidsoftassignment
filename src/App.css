@@ -1,0 +1,156 @@
+.table-o {
+  border-collapse: collapse;
+  margin: auto;
+}
+
+.table-h{
+  background-color: rgb(13, 210, 245);
+  font-weight:5%;
+  
+}
+.table-h th {
+  color: snow;
+  padding: 13px;
+  font-size: 12px;
+}
+.table-h tr th{
+  border: 1px solid white;
+}
+.table-b{
+  background-color: rgb(253, 249, 249);
+}
+.table-b td{
+  padding: 13px;
+  font-size: 12px;
+}
+.table-b tr td{
+  border:1px solid grey;
+}
+.common1{
+  float:left;
+  color: white;
+  padding:3px
+
+}
+.com{
+  padding-bottom:5%;
+  margin:0% 6% 1% 6%;
+  height:100%
+}
+.com2{
+  width:19%;
+  float:left;
+  background-color:black;
+  color:white;
+  padding-Bottom:20px;
+  padding-Top:10px;
+  border-Radius:2px;
+  margin:0% 0% 1% 1%
+}
+.head1{
+  padding-Bottom:1%;
+  background-color:rgb(2, 6, 66);
+  margin:0% 0% 1% 0%
+}
+.headf{
+  margin:1% 0% 0% 1%;
+  color:white;
+  vertical-align:top;
+  font-size:25px
+}
+.headb{
+  background-Color:white;
+  border-Radius:5px;
+  float:right;
+  margin:1% 1% 0% 0%
+  
+}
+.navo{
+  padding-Bottom:30px;
+  margin:0% 6% 1% 6%;
+  height:100%
+}
+.navb{
+  width:60%;
+  float:left
+}
+.navb2{
+  width:40%;
+  float:right;
+  font-Size:15px;
+  text-Align:right
+}
+.navIn{
+  margin:0% 1% 0% 1%;
+  border-Radius:6px;
+  border:1px
+}
+.navbu{
+  background-Color:rgb(13, 210, 245);
+  border-Radius:2px;
+  margin:0% 1% 0% 0%;
+  border:1px;
+  padding:4px
+}
+.navbu2{
+  color:skyblue;
+  border:1px solid skyblue;
+  border-Radius:2px
+}
+.tab{
+  background-Color:white;
+  padding-Bottom:2%;
+  margin:0% 6% 1% 6%
+}
+.tab1{
+  background-Color:rgb(31, 49, 126);
+  padding-Bottom:2%;
+  margin-Bottom:1%
+}
+.tab2{
+  width:45%;
+  float:left;
+  color:white;
+  margin-Left:1%
+}
+.tab3{
+  width:20%;
+float:left;
+color:rgb(13, 179, 245)
+}
+.tab4{
+  float:right;
+  color:white;
+  margin-Right:1%
+}
+.tablebutton{
+  color:'white';
+  background-Color:rgb(13, 210, 245);
+  margin-Right:1px;
+  border:1px;
+  border-Radius:5px;
+  padding:5px 8px 5px 8px
+}
+.Overview-a{
+  width:30% ;
+  float: left;
+  color: white ;
+  border:1px;
+  border-radius: 3px;
+  margin:0% 1% 1% 1% ;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
